@@ -1,2 +1,2 @@
 # wonder4kids
-This is our working repository
+This is our working repository ;)
